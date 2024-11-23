@@ -1,0 +1,8 @@
+{
+    "username": {"id": "txt_Username"},
+    "password": {"id": "txt_Password"},
+    "login_button": {"id": "loginbutton"},
+    "system_info_btn": {"id": "name_Systeminfo"},
+    "dsl_info_btn": {"id": "name_dslinfo"},
+    "table_info": {"id": "TableDslInfoForm"}
+}
